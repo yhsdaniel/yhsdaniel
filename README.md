@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Kristiawan
 Web Developer
 -------------
 
-Hi, I'm a software developer with more than 5 years of hands-on experience. I have honed my skills in front-end development. I have experience in financial data. I’m a humble and easygoing person. I like to always improve my skills and be proactive.
+Hi, I'm a website developer with more than 5 years of hands-on experience. I have honed my skills in front-end development. I’m a humble and easygoing person. I like to always improve my skills and be proactive.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [daniel.kristi09@gmail.com](mailto:daniel.kristi09@gmail.com)
